@@ -1,0 +1,10 @@
+C:\Users\sb042364\source\repos\Elevador\Elevador\bin\Debug\Elevador.exe.config
+C:\Users\sb042364\source\repos\Elevador\Elevador\bin\Debug\Elevador.exe
+C:\Users\sb042364\source\repos\Elevador\Elevador\bin\Debug\Elevador.pdb
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.csprojResolveAssemblyReference.cache
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.Form1.resources
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.Properties.Resources.resources
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.csproj.GenerateResource.Cache
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.exe
+C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.pdb
