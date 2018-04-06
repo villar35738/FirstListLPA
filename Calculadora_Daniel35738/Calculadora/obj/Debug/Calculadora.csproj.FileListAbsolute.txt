@@ -1,0 +1,34 @@
+C:\Users\marcos\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\marcos\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\marcos\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\marcos\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\marcos\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\marcos\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\marcos\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.Calculator.resources
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\marcos\Documents\CODING\visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\obj\Debug\Calculadora.Calculator.resources
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\GIT Projects\FirstListLPA\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\bin\Debug\Calculadora.exe.config
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\bin\Debug\Calculadora.exe
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\bin\Debug\Calculadora.pdb
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\obj\Debug\Calculadora.Calculator.resources
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\obj\Debug\Calculadora.exe
+D:\GIT Projects\FirstListLPA\Calculadora_Daniel35738\Calculadora\obj\Debug\Calculadora.pdb

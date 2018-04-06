@@ -1,0 +1,21 @@
+C:\Users\marcos\source\repos\Empregado\Empregado\bin\Debug\Empregado.exe.config
+C:\Users\marcos\source\repos\Empregado\Empregado\bin\Debug\Empregado.exe
+C:\Users\marcos\source\repos\Empregado\Empregado\bin\Debug\Empregado.pdb
+C:\Users\marcos\source\repos\Empregado\Empregado\obj\Debug\Empregado.csprojResolveAssemblyReference.cache
+C:\Users\marcos\source\repos\Empregado\Empregado\obj\Debug\Empregado.csproj.CoreCompileInputs.cache
+C:\Users\marcos\source\repos\Empregado\Empregado\obj\Debug\Empregado.exe
+C:\Users\marcos\source\repos\Empregado\Empregado\obj\Debug\Empregado.pdb
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\bin\Debug\Empregado.exe.config
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\bin\Debug\Empregado.exe
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\bin\Debug\Empregado.pdb
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\obj\Debug\Empregado.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\obj\Debug\Empregado.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\obj\Debug\Empregado.exe
+C:\Users\marcos\Documents\CODING\visual studio\Empregado\Empregado\obj\Debug\Empregado.pdb
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\bin\Debug\Empregado.exe.config
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\bin\Debug\Empregado.exe
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\bin\Debug\Empregado.pdb
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\obj\Debug\Empregado.csprojResolveAssemblyReference.cache
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\obj\Debug\Empregado.csproj.CoreCompileInputs.cache
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\obj\Debug\Empregado.exe
+D:\GIT Projects\FirstListLPA\Empregado\Empregado\obj\Debug\Empregado.pdb

@@ -1,0 +1,21 @@
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.exe.config
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.exe
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.pdb
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.csproj.CoreCompileInputs.cache
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.exe
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.pdb
+C:\Users\marcos\source\repos\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.exe.config
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.exe
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.pdb
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.exe
+C:\Users\marcos\Documents\CODING\visual studio\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.pdb
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.exe.config
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.exe
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\bin\Debug\MostrarAluno.pdb
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.csprojResolveAssemblyReference.cache
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.csproj.CoreCompileInputs.cache
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.exe
+D:\GIT Projects\FirstListLPA\MostrarAluno\MostrarAluno\obj\Debug\MostrarAluno.pdb
