@@ -8,3 +8,13 @@ C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.csproj.Gener
 C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.csproj.CoreCompileInputs.cache
 C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.exe
 C:\Users\sb042364\source\repos\Elevador\Elevador\obj\Debug\Elevador.pdb
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\bin\Debug\Elevador.exe.config
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\bin\Debug\Elevador.exe
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\bin\Debug\Elevador.pdb
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.Form1.resources
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.exe
+C:\Users\Daniel\Desktop\Lista 1 LPA\FirstListLPA\Elevador\Elevador\obj\Debug\Elevador.pdb
